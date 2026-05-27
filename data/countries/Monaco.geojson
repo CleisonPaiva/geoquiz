@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Monaco",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "MC", "CNTR_ID": "MC", "CNTR_NAME": "Monaco", "NAME_ENGL": "Monaco", "ISO3_CODE": "MCO", "FID": "MC" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 7.439249, 43.749019 ], [ 7.432799, 43.744924 ], [ 7.429545, 43.738346 ], [ 7.423065, 43.735893 ], [ 7.426748, 43.730873 ], [ 7.419456, 43.725383 ], [ 7.415697, 43.72591 ], [ 7.410283, 43.72935 ], [ 7.412828, 43.731712 ], [ 7.413383, 43.734577 ], [ 7.437358, 43.751632 ], [ 7.439249, 43.749019 ] ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Vatican City",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "VA", "CNTR_ID": "VA", "CNTR_NAME": "Stato Della Città Del Vaticano-Status Civitatis Vaticanae", "NAME_ENGL": "Vatican City", "ISO3_CODE": "VAT", "FID": "VA" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 12.448061, 41.900821 ], [ 12.445854, 41.901992 ], [ 12.451245, 41.906278 ], [ 12.455622, 41.907394 ], [ 12.457397, 41.905845 ], [ 12.457838, 41.901545 ], [ 12.45494, 41.900572 ], [ 12.448061, 41.900821 ] ] ] ] } }
+]
+}

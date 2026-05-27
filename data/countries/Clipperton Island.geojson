@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Clipperton Island",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "CP", "CNTR_ID": "CP", "CNTR_NAME": "Île Clipperton", "NAME_ENGL": "Clipperton Island", "ISO3_CODE": "CPT", "FID": "CP" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -109.234719, 10.309147 ], [ -109.233278, 10.313474 ], [ -109.227262, 10.319335 ], [ -109.222975, 10.318906 ], [ -109.215842, 10.314594 ], [ -109.205502, 10.311321 ], [ -109.201326, 10.308638 ], [ -109.199884, 10.302624 ], [ -109.203639, 10.292996 ], [ -109.206965, 10.289505 ], [ -109.211489, 10.287454 ], [ -109.218665, 10.288487 ], [ -109.231445, 10.300413 ], [ -109.234719, 10.309147 ] ] ] ] } }
+]
+}
